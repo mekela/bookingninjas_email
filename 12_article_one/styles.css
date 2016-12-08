@@ -190,12 +190,7 @@ a {
     font-weight: bold;
 }
 .article_bg{
-    background-image: url(article_img.png);
-    background-position: center;
-    background-repeat: no-repeat;
     text-align: center;
-    padding-top: 70px;
-    padding-bottom: 70px;
 }
 .article_views{
     padding-top: 12px;
