@@ -468,6 +468,8 @@ h2{
 .button-video{
     padding-top: 10px;
     padding-bottom: 10px;
+    width: 50%;
+    text-align: center;
 }
 .italic-text-video{
     font-size: 18px;
@@ -497,6 +499,57 @@ h2{
         color: #009fd5;
         font-size: 18px;
       }
+
+
+.video-darkblue{
+    background: #324663;
+}
+.title-white{
+color: #ffffff;
+font-size: 30px;
+font-weight: 400;
+text-transform: uppercase;
+letter-spacing: 1.5px;
+}
+.subtitle-white{
+color: #ffffff;
+font-size: 22px;
+font-weight: 400;
+}
+.video-text-xl{
+color: #324663;
+font-size: 22px;
+font-weight: 400;
+font-family: Open Sans, sans-serif;
+}
+.video-text-sm{
+color: #2e517f;
+font-family: Open Sans, sans-serif;
+font-size: 18px;
+font-weight: 400;
+}
+.buttons-video{
+    width: 100%;
+}
+.video-bottom-future{
+    background: #38475b;
+    width: 100%;
+}
+.video-bottom-future-title{
+color: #ffffff;
+font-family: Open Sans, sans-serif;
+font-size: 24px;
+font-weight: 400;
+}
+.video-bottom-future-title img{
+    vertical-align: middle;
+}
+.video-bottom-future p{
+color: #ffffff;
+font-family: Open Sans, sans-serif;
+font-size: 16px;
+font-weight: 400;
+}
 
 /*Media Queries*/
 @media screen and (max-width: 780px) {
